@@ -1,0 +1,6 @@
+{
+  "name": "QuizArena - Live PDF Quiz & Leaderboard",
+  "description": "Upload quiz PDFs with automatic format verification, host live student sessions, and track real-time rankings with in-depth question explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
